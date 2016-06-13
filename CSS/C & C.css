@@ -1,0 +1,336 @@
+/* CSS Document */
+.td
+{
+border-top:1px solid #FFFFFF;
+border-bottom:1px solid #FFFFFF;
+}
+.links
+{
+font-family:Arial, Helvetica, sans-serif;
+font-size:14px;
+color:#FFFFFF;
+text-decoration:none;
+}
+.links a:hover
+{
+color:#a38839;
+text-decoration:none;
+}
+#bottom
+{
+width:900%;
+height:auto;
+margin:0px;
+padding:0px 6px 0px 6px;
+}
+#product
+{
+width:240px
+margin:0px;
+padding:6px 6px 6px 0px;
+}
+.td1
+{
+border-left:1px solid #a1936b;
+background-color:#e6e5e0;
+}
+.td3
+{
+border-right:1px solid #a1936b;
+background-color:#e6e5e0;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#7f651a;
+margin:0px;
+padding:0px;
+}
+.td2
+{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#7f651a;
+margin:0px;
+padding:0px;
+text-align:justify;
+}
+.td4
+{
+border-bottom:1px solid #a1936b;
+background-color:#e6e5e0;
+border-left:1px solid #a1936b;
+border-right:1px solid #a1936b;
+}
+
+.td5
+{
+
+background-color:#e6e5e0;
+border-left:1px solid #a1936b;
+border-right:1px solid #a1936b;
+}
+
+.rightmenu ul{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:14px;
+font-weight:bold;
+margin:10px 0px 0px 29px;
+padding:0px;
+
+}
+.rightmenu li{
+list-style-image:url(../images/bullet.jpg);
+line-height:32px;
+color:#794d31;
+width:180px;
+}
+.readmore 
+{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#003399;
+padding-right:10px;
+padding-bottom:5px;
+text-decoration:none;
+
+}
+.readmore a:hover
+{
+
+text-decoration:none;
+}
+
+#image
+{
+width:248px;
+margin:0px;
+padding:0px;
+float:left;
+}
+#content
+{
+width:390px;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#7f651a;
+padding:0px;
+margin:0px;
+float:right;
+text-align:justify;
+}
+#flash
+{line-height:0px;}
+.bottomlinks
+{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px;
+color:#FFFFFF;
+text-decoration:none;
+}
+.bottomlinks a:hover
+{
+color:#000000;
+text-decoration:none;
+}
+#footer
+{
+width:50%;
+height:auto;
+float:left;
+margin:0px;
+padding:0px 0px 0px 10px;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px;
+color:#b4b4b4;
+}
+#footer1
+{
+width:40%;
+height:auto;
+float:right;
+margin:0px;
+padding:0px 10px 0px 0px;
+}
+.abacusdesk
+{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px;
+color:#b4b4b4;
+text-decoration:none;
+}
+.abacusdesk a:hover
+{
+color:#ffffff;
+text-decoration:none;
+}
+#readmore1
+{
+width:300px;
+height:20px;
+float:right;
+text-align:right;
+}
+.readmore2 
+{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#003399;
+padding-right:10px;
+padding-bottom:5px;
+text-decoration:none;
+
+}
+.readmore2 a:hover
+{
+color:#794d31;
+text-decoration:none;
+}
+.headings
+{
+font-family:Architecture;
+font-size:30px;
+color:#81553a;
+text-decoration:none;
+font-style:normal;
+}
+.application
+{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#7f651a;
+text-align:justify;
+text-decoration:none;
+padding:0px 4px 0px 5px;
+}
+.unit
+{
+font-family:Arial, Helvetica, sans-serif;
+font-size:14px;
+color:#ffffff;
+text-decoration:none;
+font-weight:bold;
+padding:5px 0px 3px 5px;
+}
+.unitname
+{
+font-family:Arial, Helvetica, sans-serif;
+font-size:14px;
+color:#27301b;
+text-decoration:none;
+font-weight:normal;
+padding:5px 0px 3px 5px;
+}
+.aims
+{
+font-family:arial;
+font-size:16px;
+color:#7f651a;
+text-align:justify;
+text-decoration:none;
+}
+.aims1
+{
+font-family:Arial;
+font-size:16px;
+color:#4d4d4d;
+text-align:justify;
+text-decoration:none;
+font-weight:bold;
+}
+.rightmenu1 ul{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:14px;
+font-weight:bold;
+margin:0px 0px 0px 29px;
+padding:0px;
+
+}
+.rightmenu1 li{
+list-style-image:url(../images/bullet.jpg);
+line-height:32px;
+color:#794d31;
+}
+.unit2
+{
+font-family:Arial;
+font-size:18px;
+color:#2b0c5f;
+text-decoration:none;
+font-weight:normal;
+padding:5px 0px 3px 5px;
+border-bottom:1px solid #660000;
+}
+.contact
+{
+font-family:Arial, Helvetica, sans-serif;
+font-size:14px;
+color:#333333;
+text-decoration:none;
+font-style:normal;
+padding:0px 0px 0px 10px
+}
+.productsname
+{
+font-family:Arial, Helvetica, sans-serif;
+font-size:14px;
+color:#333333;
+font-weight:normal;
+padding:4px 0px 4px 0px;
+}
+.iso
+{
+font-family:BankGothic Md BT;
+font-size:16px;
+color:#333333;
+text-decoration:none;
+}
+.companyname
+{
+font-family:Arial, Helvetica, sans-serif;
+font-size:18px;
+color:#333333;
+padding:4px 0px 10px 10px;
+}
+.rightmenu2 ol{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:14px;
+font-weight:normal;
+margin:0px 0px 0px 29px;
+padding:0px;
+
+}
+.rightmenu2 li
+{
+list-style:decimal;
+line-height:32px;
+color:#794d31;
+}
+.productslist
+{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:14px;
+color:#794d31;
+font-weight:bold;
+}
+.circle
+{
+font-family:tahoma;
+font-size:12px;
+color:#000066;
+font-weight:bold;
+}
+.location
+{
+border:1px solid #999999;
+font-family:tahoma;
+font-size:12px;
+color:#6c6c6c;
+font-weight:bold;
+}
+.location1
+{
+border:1px solid #999999;
+font-family:tahoma;
+font-size:12px;
+color:#6c6c6c;
+}
+
